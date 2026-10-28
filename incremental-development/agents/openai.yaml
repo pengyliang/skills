@@ -1,0 +1,5 @@
+interface:
+  display_name: "渐进开发与真实验收"
+  short_description: "大型项目逐项对齐与小步交付，真实数据验收、简洁结构、版本回退和中途纠偏"
+policy:
+  allow_implicit_invocation: true
